@@ -32,6 +32,8 @@
 </style>
 <link href="http://iwantaneff.in/custom.webkit.scrollbar.css" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Fredoka+One' rel='stylesheet' type='text/css'>
+<link href="borders.css" rel="stylesheet" type="text/css">
+
 <link href='http://fonts.googleapis.com/css?family=Jura' rel='stylesheet' type='text/css'>
 
 <!--[if lt IE 9]>
@@ -43,7 +45,7 @@ body {
 background: url(img/wood.png);
 color: #black;
 font-family: Jura;
-font-size: 26px;
+font-size: 22px;
 }
 header{
 font-family: 'Fredoka One', cursive;
@@ -141,6 +143,15 @@ h2 {
 font-size: 12px!important;
 background:transparent!important
 }
+.pblock{
+padding: 30px;
+}
+ul,li{
+list-style-type:none
+}
+p,li{
+line-height: 40px;
+}
 </style>
 
 </head>
@@ -149,20 +160,18 @@ background:transparent!important
 
 <div class="wrapper">
 <header>Handpicked jQuery Plugins <span>v2</span></header>
-<p>(Powered by Cloudflare / MaxCDN Servers)<br><br></p>
+
+<p class="border silver">The Handpicked jQuery Plugins Repository is a carefully selected roundup of some of the best jQuery Plugins ever released. Here we offer you the ability to browse through the plugins, or download a plugin that you fancy. Whether you're building a huge Web-Application, or a simple site, we've got you covered. We also offer you the ability to hot-link directly to these plugin scripts through our CDN service, so your site loads much faster.</p>
+
+<p class="border silver">We have disabled hot-linking directly to scripts in our <i>online demos</i>, however, below is a list of CDN URLs you should use if you're going to implement a plugin on your site. We are on a dedicated MaxCDN setup so all JS is Gzipped and served from 16 "edge locations" from around the world for peace of mind.</p>
 
 
-<p>The Handpicked jQuery Plugins Repository is a carefully selected roundup of some of the best jQuery Plugins ever released. Here we offer you the ability to browse through the plugins, or download a plugin that you fancy. Whether you're building a huge Web-Application, or a simple site, we've got you covered. We also offer you the ability to hot-link directly to these plugin scripts through our CDN service, so your site loads much faster.</p>
+<p class="border silver">This Plugin library has been heavily modified and tweaked over the last few six months. Here's what I've done to it:</p>
 
-<p>We have disabled hot-linking directly to scripts in our <i>online demos</i>, however, below is a list of CDN URLs you should use if you're going to implement a plugin on your site. We are on a dedicated MaxCDN setup so all JS is Gzipped and served from 16 "edge locations" from around the world for peace of mind.</p>
-
-
-<p>This Plugin library has been heavily modified and tweaked over the last few six months. Here's what I've done to it:</p>
-
-<ul>
+<ul class="border silver">
 <li>MADE the plugins 'runnable' / executable offline. Go ahead and <a href="http://isharefil.es/HhCI">download The Repo</a>, and try to execute a script without an internet connection. All the scripts fallback to a local copy of jQuery when a remote version is not available.
 
-<li>All scripts now run on a jQuery 'baseline' version (v1.7.2), as jQuery is getting a major overhaul soon. We've decided to stop relying on grabbing the 'latest version' of jQuery for each script.
+<li>ALL SCRIPTS now run on a jQuery 'baseline' version (v1.7.2), as jQuery is getting a major overhaul soon. We've decided to stop relying on grabbing the 'latest version' of jQuery for each script.
 
 <li>ALL PNGs are now optimized and compressed. Page load time is something we care about, a lot.</li>
 
@@ -174,9 +183,14 @@ background:transparent!important
 
 </ul>
 
-<p>You might want to read the <a href="http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/">blogpost</a> concerning this repo, and the reasoning behind it. Remember, if you feel a plugin is missing from this, you can build your own repo using this site's code as a template. The aim of this repo is quality over quantity.</p>
+<p class="border silver">You might want to read the <a href="http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/">blogpost</a> concerning this repo, and the reasoning behind it. Remember, if you feel a plugin is missing from this, you can build your own repo using this site's code as a template. The aim of this repo is quality over quantity.</p>
 
-<p>I hope you enjoy browsing through the list on the left, and remember, you can <a href="http://iwantaneff.in/repo/browser/">Download</a> a plugin you like via our ZipFile directory. Do not try and scrape a plugin from our live server. </p>
+<p class="border silver">I hope you enjoy browsing through the list on the left, and remember, you can <a href="http://iwantaneff.in/repo/browser/">Download</a> a plugin you like via our ZipFile directory. Do not try and scrape a plugin from our live server. </p>
+
+<p class="border silver">
+<a href="https://twitter.com/_higg_" class="twitter-follow-button" data-show-count="false">Follow @_higg_</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</p>
 
 
 <h2>MaxCDN URLs:</h2>
@@ -184,7 +198,7 @@ background:transparent!important
 
 <h2>Brought to you by:</h2>
 
-<h2><center><a href="http://maxcdn.com/"><img src="img/maxcdn.png"/></a></center></h2>
+<h2><center><a href="http://tracking.maxcdn.com/c/38324/3968/378"><img src="img/maxcdn.png"/></a></center></h2>
 
 <div id="shareme" data-url="http://iwantaneff.in/repo/" data-text="The Handpicked jQuery Plugins Repository. #jquery #plugins " data-title="share this page"></div>
 
