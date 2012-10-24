@@ -5,7 +5,6 @@
 <title>The Handpicked jQuery Plugins Repository. :: File Browser :: Downloads</title>
 
 <link rel="dns-prefetch" href="//u-n-i.co">
-<link rel="dns-prefetch" href="//higg.in">
 <link rel="dns-prefetch" href="//davidhiggins.me">
 <link rel="dns-prefetch" href="//codepirat.es">
 <link rel="dns-prefetch" href="//edanhewitt.com">

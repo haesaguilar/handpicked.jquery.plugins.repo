@@ -8,9 +8,7 @@ Website: [http://iwantaneff.in/repo/][2]
 
 Filedump: [http://iwantaneff.in/repo/browser/][3]
 
-Blogpost: [http://higg.in/the-handpicked-jquery-plugins-repository][4]
-
-Last Updated: January 31, 2012
+Blogpost: [http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/][4]
 
 You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
@@ -21,7 +19,7 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
   [1]: http://davidhiggins.me/
   [2]: http://iwantaneff.in/repo/
   [3]: http://iwantaneff.in/repo/browser/
-  [4]: http://higg.in/the-handpicked-jquery-plugins-repository
+  [4]: http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/
   [5]: http://iwantaneff.in/repo/browser/
 
 > One of the greatest things about
@@ -252,7 +250,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://www.iwantaneff.in/repo/plugins/github-demos/slider.js/index.html](http://www.iwantaneff.in/repo/plugins/github-demos/slider.js/index.html)
 - [http://www.iwantaneff.in/repo/plugins/github-demos/swipe.js/index.html](http://www.iwantaneff.in/repo/plugins/github-demos/swipe.js/index.html)
 - [http://www.iwantaneff.in/repo/plugins/github-demos/turn.js/index.html](http://www.iwantaneff.in/repo/plugins/github-demos/turn.js/index.html)
-- [undefined](undefined)
 
 
 

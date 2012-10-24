@@ -16,7 +16,7 @@
 
 <meta property="og:title" content="The Handpicked jQuery Plugins Repository" />
 <meta property="og:url" content="http://iwantaneff.in/repo/" />
-<meta property="og:image" content="http://js.eire-media.com/favicon.png" />
+<meta property="og:image" content="http://iwantaneff.in/repo/img/header.png" />
 <meta property="og:site_name" content="The Handpicked jQuery Plugins Repository" />
 
 <style>::-moz-selection{ background: #000; color: white; text-shadow: none; }::selection { background:#000; color:white; text-shadow: none; }</style>
@@ -41,23 +41,22 @@
 <![endif]-->
 
 <style>
-body {
-background: url(img/wood.png);
-color: #black;
-font-family: Jura;
-font-size: 22px;
-}
-header{
-font-family: 'Fredoka One', cursive;
-font-size:90px;
-color: #3f3f3f;
-margin-top: 30px;
-margin-bottom: 30px;
 
+
+body {
+    background: url(img/wood.png);
+    color: #black;
+    font-family: Jura;
+    font-size: 22px;
 }
-header span{
-font-size:45px;
+header {
+    font-family: 'Fredoka One', cursive;
+    font-size: 90px;
+    color: #3f3f3f;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
+header span { font-size: 45px }
 h1,
 h2 {
     color: #ff7c7c;
@@ -82,8 +81,6 @@ h2 {
 #shareme {
     width: 350px;
     height: 60px;
-
-    
 }
 #shareme .box {
     float: left;
@@ -139,18 +136,29 @@ h2 {
     width: 130px;
     height: 100px;
 }
-.gist{
-font-size: 12px!important;
-background:transparent!important
+.gist {
+    font-size: 12px!important;
+    background: transparent!important;
 }
-.pblock{
-padding: 30px;
-}
-ul,li{
-list-style-type:none
-}
-p,li{
-line-height: 40px;
+.pblock { padding: 30px }
+ul,
+li { list-style-type: none }
+p,
+li { line-height: 40px }
+.higg { padding-bottom: 10px!important }
+body .one .bsa_it_p { display: none; }
+#bsap_aplink{font-size: 12px;color:black;text-decoration:none}
+#bsap_aplink:visited{color:black}
+
+.via_adpacks a{
+background:#f0f0f0;
+height: 24px;
+width: 100px;
+line-height: 24px;
+padding:0px;
+display:block;
+text-align:center;
+border-radius: 3px;
 }
 </style>
 
@@ -160,6 +168,11 @@ line-height: 40px;
 
 <div class="wrapper">
 <header>Handpicked jQuery Plugins <span>v2</span></header>
+
+<div id="bsap_1278447" class="bsarocks bsap_34ff9915aacae58d404570c35c360031"></div>
+<div class="via_adpacks">
+<a href="http://adpacks.com" id="bsap_aplink" target="_blank">via Ad Packs</a>
+</div>
 
 <p class="border silver">The Handpicked jQuery Plugins Repository is a carefully selected roundup of some of the best jQuery Plugins ever released. Here we offer you the ability to browse through the plugins, or download a plugin that you fancy. Whether you're building a huge Web-Application, or a simple site, we've got you covered. We also offer you the ability to hot-link directly to these plugin scripts through our CDN service, so your site loads much faster.</p>
 
@@ -185,11 +198,12 @@ line-height: 40px;
 
 <p class="border silver">You might want to read the <a href="http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/">blogpost</a> concerning this repo, and the reasoning behind it. Remember, if you feel a plugin is missing from this, you can build your own repo using this site's code as a template. The aim of this repo is quality over quantity.</p>
 
-<p class="border silver">I hope you enjoy browsing through the list on the left, and remember, you can <a href="http://iwantaneff.in/repo/browser/">Download</a> a plugin you like via our ZipFile directory. Do not try and scrape a plugin from our live server. </p>
+<p class="border silver">I hope you enjoy browsing through the list on the left, and remember, you can <a href="http://iwantaneff.in/repo/browser/">Download</a> a plugin you like via our ZipFile directory. Do not try and scrape a plugin from our live server.<br>
+♥ <A href="http://davidhiggins.me/" target="_blank">David Higgins</a> &amp; <a href="http://edanhewitt.com/blog" target="_blank">Edan Hewitt</a>
+</p>
 
-<p class="border silver">
-<a href="https://twitter.com/_higg_" class="twitter-follow-button" data-show-count="false">Follow @_higg_</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<p class="border silver higg">
+<a href="http://twitter.com/_higg" target="_blank" class="cc"><img src="img/follow.jpg" title="Follow me"/></a>
 </p>
 
 
@@ -198,7 +212,7 @@ line-height: 40px;
 
 <h2>Brought to you by:</h2>
 
-<h2><center><a href="http://tracking.maxcdn.com/c/38324/3968/378"><img src="img/maxcdn.png"/></a></center></h2>
+<h2><center><a href="http://tracking.maxcdn.com/c/38324/3968/378" target="_blank"><img src="img/maxcdn.png"/></a></center></h2>
 
 <div id="shareme" data-url="http://iwantaneff.in/repo/" data-text="The Handpicked jQuery Plugins Repository. #jquery #plugins " data-title="share this page"></div>
 
@@ -211,54 +225,56 @@ line-height: 40px;
 <script>
 $(document).ready(function () {
 
-$('#shareme').sharrre({
-enableTracking: false,
-share: {
-googlePlus: true,
-facebook: true,
-twitter: true,
-stumbleupon: true,
-delicious: true,
-},
-enableTracking: false,
-buttons: {
-googlePlus: {
-size: 'tall'
-},
-facebook: {
-layout: 'box_count'
-},
-twitter: {
-count: 'vertical'
-},
-stumbleupon: {
-layout: '5'
-},
-delicious: {
-size: 'tall'
-}
-},
-hover: function (api, options) {
-$(api.element).find('.buttons').show();
-},
-hide: function (api, options) {
-$(api.element).find('.buttons').hide();
-}
-});
+    $('#shareme').sharrre({
+        enableTracking: false,
+        share: {
+            googlePlus: true,
+            facebook: true,
+            twitter: true,
+            stumbleupon: true,
+            delicious: true,
+        },
+        enableTracking: false,
+        buttons: {
+            googlePlus: {
+                size: 'tall'
+            },
+            facebook: {
+                layout: 'box_count'
+            },
+            twitter: {
+                count: 'vertical'
+            },
+            stumbleupon: {
+                layout: '5'
+            },
+            delicious: {
+                size: 'tall'
+            }
+        },
+        hover: function (api, options) {
+            $(api.element).find('.buttons').show();
+        },
+        hide: function (api, options) {
+            $(api.element).find('.buttons').hide();
+        }
+    });
 
-$('a').each(function () {
-var a = new RegExp('/' + window.location.host + '/');
-if (!a.test(this.href)) {
-$(this).click(function (event) {
-event.preventDefault();
-event.stopPropagation();
-window.open(this.href, '_blank');
-});
-}
-});
+    $('a').each(function () {
+        var a = new RegExp('/' + window.location.host + '/');
+        if (!a.test(this.href)) {
+            $(this).click(function (event) {
+                event.preventDefault();
+                event.stopPropagation();
+                window.open(this.href, '_blank');
+            });
+        }
+    });
 
 })
 </script>
+
+<script src="http://s3.buysellads.com/ac/bsa.js"></script>
 
 </body>
 </html>
