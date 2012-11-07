@@ -12,6 +12,7 @@ Blogpost: [http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/][4]
 
 You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
+[![Foo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/thing/976983/The-Handpicked-jQuery-Plugins-Repo)
 
 ----------
 

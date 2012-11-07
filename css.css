@@ -1,6 +1,10 @@
 body,
 html { overflow: hidden }
 body { background: url(img/wood.png) }
+@font-face{
+font-family: "karla";
+src: url("karla.ttf") format("truetype");
+}
 #main{
 margin-top: 20px;
 position:relative;
@@ -29,11 +33,11 @@ display:block;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9effffff', endColorstr='#00ffffff',GradientType=0 );
   font-size: 21px;
   text-transform: uppercase;
-  font-family: 'Ropa Sans',Verdana,Arial;
+  font-family: 'karla',Verdana,Arial;
 }
 
 
-summary {
+summary,.hero {
 padding-top: 12px;
 padding-bottom: 12px;
 padding-right:0px;
@@ -47,7 +51,7 @@ padding-left:0px;
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9effffff', endColorstr='#00ffffff',GradientType=0 );
 
     font-size: 26px;
-    font-family: 'Ropa Sans',Verdana,Arial;
+    font-family: 'karla',Verdana,Arial;
     text-transform: uppercase;
     cursor: pointer;
     cursor: hand;
@@ -113,4 +117,11 @@ padding:0px;
 display:block;
 text-align:center;
 border-radius: 3px;
+}
+.vcard{
+font-family: "karla",Verdana;
+}
+.vcard a{
+font-family: "karla",Verdana;
+color: #201e1c
 }
