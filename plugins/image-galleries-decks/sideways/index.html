@@ -11,17 +11,17 @@ body {margin:0; padding:0; background:#333 url(sw_page_bg.png); overflow:hidden;
 @font-face {
 	font-family: 'eurof55-webfont';
 	src: url('fonts/eurof55-webfont.eot');
-	src: local('☺'), url('fonts/eurof55-webfont.woff') format('woff'), url('fonts/eurof55-webfont.ttf') format('truetype'), url('fonts/eurof55-webfont.svg#webfont8xigBfG2') format('svg');
+	src: local('???'), url('fonts/eurof55-webfont.woff') format('woff'), url('fonts/eurof55-webfont.ttf') format('truetype'), url('fonts/eurof55-webfont.svg#webfont8xigBfG2') format('svg');
 }
 @font-face {
 	font-family: 'eurof35-webfont';
 	src: url('fonts/eurof35-webfont.eot');
-	src: local('☺'), url('fonts/eurof35-webfont.woff') format('woff'), url('fonts/eurof35-webfont.ttf') format('truetype'), url('fonts/eurof35-webfont.svg#webfont8xigBfG2') format('svg');
+	src: local('???'), url('fonts/eurof35-webfont.woff') format('woff'), url('fonts/eurof35-webfont.ttf') format('truetype'), url('fonts/eurof35-webfont.svg#webfont8xigBfG2') format('svg');
 }
 @font-face {
 	font-family: 'graublauweb-webfont';
 	src: url('fonts/graublauweb-webfont.eot');
-	src: local('☺'), url('fonts/graublauweb-webfont.woff') format('woff'), url('fonts/graublauweb-webfont.ttf') format('truetype'), url('fonts/graublauweb-webfont.svg#webfont8xigBfG2') format('svg');
+	src: local('???'), url('fonts/graublauweb-webfont.woff') format('woff'), url('fonts/graublauweb-webfont.ttf') format('truetype'), url('fonts/graublauweb-webfont.svg#webfont8xigBfG2') format('svg');
 }
 .clear{clear:both;}
 a:link,a:visited,a:hover{color:#ddd;}
@@ -119,7 +119,22 @@ http://iwantaneff.in/repo/
                                                                                 
                                                                                 -->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script><script>window.jQuery || document.write('<script src="../../../jquery.1.7.2.min.js"><\/script>')</script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../../jquery.1.7.2.min.js"><\/script>')</script>
+
+  <script>
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '50c76bbc613f5d7338000064');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+  </script>
 
 <script src="jquery-ui.min.js"></script>
 <script type="text/javascript" src="jquery.easing.1.3.js"></script>
@@ -511,5 +526,6 @@ $.each(images, function(i) {
   images[i].src = this;
 });
 </script>
+
 </body>
 </html>

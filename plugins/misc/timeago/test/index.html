@@ -481,77 +481,77 @@
 
       test("suffixAgo", function () {
         ok($("#testLatinSettings5").html().match(/ago-hay$/), "Settings correctly applied");
-        ok($("#testRussianSettings5").html().match(/назад$/), "Settings correctly applied");
+        ok($("#testRussianSettings5").html().match(/??????????$/), "Settings correctly applied");
         ok($("#testMillisSettings5").html().match(/ago/), "Settings correctly applied");
       });
 
       test("prefixFromNow", function () {
-        ok($("#testRussianSettings2").html().match(/^через/), "Settings correctly applied");
+        ok($("#testRussianSettings2").html().match(/^??????????/), "Settings correctly applied");
       });
 
       test("seconds", function () {
         ok($("#testLatinSettings5").html().match(/^ess-lay an-thay a-hay inute-may/), "Settings correctly applied");
-        ok($("#testRussianSettings5").html().match(/^меньше минуты/), "Settings correctly applied");
+        ok($("#testRussianSettings5").html().match(/^???????????? ????????????/), "Settings correctly applied");
         ok($("#testMillisSettings5").html().match(/0 milliseconds/), "Settings correctly applied");
       });
 
       test("minute", function () {
         ok($("#testLatinSettings7").html().match(/^about-hay a-hay inute-may/), "Settings correctly applied");
-        ok($("#testRussianSettings7").html().match(/^минуту/), "Settings correctly applied");
+        ok($("#testRussianSettings7").html().match(/^????????????/), "Settings correctly applied");
         ok($("#testMillisSettings7").html().match(/45000 milliseconds/), "Settings correctly applied");
       });
 
       test("minutes", function () {
         ok($("#testLatinSettings8").html().match(/^2 inutes-may/), "Settings correctly applied");
-        ok($("#testRussianSettings8").html().match(/^2 минуты/), "Settings correctly applied");
-        // TODO: Test "минута" and "минут"
+        ok($("#testRussianSettings8").html().match(/^2 ????????????/), "Settings correctly applied");
+        // TODO: Test "????????????" and "??????????"
       });
 
       test("hour", function () {
         ok($("#testLatinSettings10").html().match(/^about-hay an-hay hour-hay/), "Settings correctly applied");
-        ok($("#testRussianSettings10").html().match(/^час/), "Settings correctly applied");
+        ok($("#testRussianSettings10").html().match(/^??????/), "Settings correctly applied");
       });
 
       test("hours", function () {
         ok($("#testLatinSettings12").html().match(/^about-hay 2 hours-hay/), "Settings correctly applied");
-        ok($("#testRussianSettings12").html().match(/^2 часа/), "Settings correctly applied");
-        // TODO: Test "час" and "часов"
+        ok($("#testRussianSettings12").html().match(/^2 ????????/), "Settings correctly applied");
+        // TODO: Test "??????" and "??????????"
       });
 
       test("day", function () {
         ok($("#testLatinSettings15").html().match(/^a-hay ay-day/), "Settings correctly applied");
-        ok($("#testRussianSettings15").html().match(/^день/), "Settings correctly applied");
+        ok($("#testRussianSettings15").html().match(/^????????/), "Settings correctly applied");
       });
 
       test("days", function () {
         ok($("#testLatinSettings16").html().match(/^2 ays-day/), "Settings correctly applied");
-        ok($("#testRussianSettings16").html().match(/^2 дня/), "Settings correctly applied");
-        ok($("#testRussianSettings17").html().match(/^29 дней/), "Settings correctly applied");
-        // TODO: Test "день"
+        ok($("#testRussianSettings16").html().match(/^2 ??????/), "Settings correctly applied");
+        ok($("#testRussianSettings17").html().match(/^29 ????????/), "Settings correctly applied");
+        // TODO: Test "????????"
       });
 
       test("month", function () {
         ok($("#testLatinSettings18").html().match(/^about-hay a-hay onth-may/), "Settings correctly applied");
-        ok($("#testRussianSettings18").html().match(/^месяц/), "Settings correctly applied");
+        ok($("#testRussianSettings18").html().match(/^??????????/), "Settings correctly applied");
       });
 
       test("months", function () {
         ok($("#testLatinSettings19").html().match(/^6 onths-may/), "Settings correctly applied");
-        ok($("#testRussianSettings19").html().match(/^6 месяцев/), "Settings correctly applied");
-        // TODO: Test "месяца" and "месяц"
+        ok($("#testRussianSettings19").html().match(/^6 ??????????????/), "Settings correctly applied");
+        // TODO: Test "????????????" and "??????????"
       });
 
       test("year", function () {
         ok($("#testLatinSettings20").html().match(/^about-hay a-hay ear-yay/), "Settings correctly applied");
-        ok($("#testRussianSettings20").html().match(/^год/), "Settings correctly applied");
+        ok($("#testRussianSettings20").html().match(/^??????/), "Settings correctly applied");
       });
 
       test("years", function () {
         ok($("#testYoungOldSettings1").html().match(/^16 young years/), "Settings correctly applied");
         ok($("#testYoungOldSettings2").html().match(/^64 old years/), "Settings correctly applied");
         ok($("#testLatinSettings21").html().match(/^3 years-yay/), "Settings correctly applied");
-        ok($("#testRussianSettings21").html().match(/^3 года/), "Settings correctly applied");
-        // TODO: Test "год" and "лет"
+        ok($("#testRussianSettings21").html().match(/^3 ????????/), "Settings correctly applied");
+        // TODO: Test "??????" and "??????"
       });
 
       test("numbers", function () {
@@ -566,5 +566,7 @@
     })(jQuery);
     //]]>
   </script>
+<div id="bsap_1278447" class="bsarocks bsap_34ff9915aacae58d404570c35c360031"></div>
+<script src="//s3.buysellads.com/ac/bsa.js"></script>
 </body>
 </html>
