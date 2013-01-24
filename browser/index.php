@@ -59,5 +59,6 @@
 
 ?>
 </div>
+<script src="http://iwantaneff.in/mint/?js"></script>
 </body>
 </html>
