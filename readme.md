@@ -8,7 +8,7 @@ Website: [http://iwantaneff.in/repo/][2]
 
 Filedump: [http://iwantaneff.in/repo/browser/][3]
 
-Blogpost: [http://edanhewitt.com/blog/handpicked-jquery-plugins-repository/][4]
+Blogpost: [http://blog.higg.im/handpicked-jquery-plugins-repository/][4]
 
 You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
@@ -20,7 +20,7 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
   [1]: http://higg.im/
   [2]: http://iwantaneff.in/repo/
   [3]: http://iwantaneff.in/repo/browser/
-  [4]: http://edanhewitt.com/webdev/handpicked-jquery-plugins-repository/
+  [4]: http://blog.higg.im/handpicked-jquery-plugins-repository/
 
 > One of the greatest things about
 > jQuery is the ever-expanding userbase.
@@ -125,6 +125,10 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/champagne/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/champagne/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/expando/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/expando/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/powertip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/powertip/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/icheck/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/icheck/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/switchy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/switchy/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/popover/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/popover/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/dropkick/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/dropkick/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fancy.form/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fancy.form/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/field.labels/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/field.labels/index.html)
@@ -151,7 +155,9 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/timepicker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/timepicker/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/searchabledropdown/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/searchabledropdown/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.selectable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.selectable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.numeric/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.numeric/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/long.press/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/long.press/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/pickadate/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/pickadate/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/superlabels/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/superlabels/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/accordion/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/accordion/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/activebar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/activebar/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drill.down/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drill.down/index.html)
@@ -181,6 +187,8 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/sticklr.panel/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/sticklr.panel/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbreadcrumb/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbreadcrumb/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/image.tabs/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/image.tabs/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/toolbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/toolbar/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/mean.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/mean.menu/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/airport/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/airport/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/hoverattribute/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/hoverattribute/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/texteffects/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/texteffects/index.html)
@@ -191,6 +199,7 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/news-ticker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/news-ticker/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/grrrid/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/grrrid/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/countdown/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/countdown/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/highlight/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/highlight/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/fullscreenr/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/fullscreenr/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sideways/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sideways/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/vegas/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/vegas/index.html)
@@ -205,7 +214,10 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/ascensor/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/ascensor/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/greyscale/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/greyscale/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/FullscreenSlitSlider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/FullscreenSlitSlider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/galleria/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/galleria/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/zoomer/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/zoomer/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/imageloader/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/imageloader/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photobox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photobox/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/tiler/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/tiler/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/jreject/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/jreject/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/snake/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/snake/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/pretty.loader/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/pretty.loader/index.html)
@@ -218,6 +230,7 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/toc/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/toc/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/timeago/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/timeago/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/browzr/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/browzr/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/peity/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/peity/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/modaldialog/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/modaldialog/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.popeye/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.popeye/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/smoke.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/smoke.js/index.html)
@@ -248,6 +261,9 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nicescroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nicescroll/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/stickem/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/stickem/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/autobrowse/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/autobrowse/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.pin/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.pin/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/perfect-scrollbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/perfect-scrollbar/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollnav/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollnav/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/elastislide/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/elastislide/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/orbit/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/orbit/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/showcase/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/showcase/index.html)
@@ -267,9 +283,13 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.cards/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.cards/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/autopin/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/autopin/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/video.poster.image/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/video.poster.image/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/50c1al/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/50c1al/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/jquery.social.flair/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/jquery.social.flair/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.privacy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.privacy/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/allmytweets/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/allmytweets/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweetable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweetable/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/livetwitter/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/livetwitter/index.html)
+- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweet!/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweet!/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/color-thief/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/color-thief/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/css3-social-signin-buttons/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/css3-social-signin-buttons/index.html)
 - [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/dzslides/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/dzslides/index.html)

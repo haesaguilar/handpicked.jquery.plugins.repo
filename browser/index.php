@@ -4,12 +4,6 @@
 <meta charset="utf-8">
 <title>The Handpicked jQuery Plugins Repository. :: File Browser :: Downloads</title>
 
-<link rel="dns-prefetch" href="//u-n-i.co">
-<link rel="dns-prefetch" href="//davidhiggins.me">
-<link rel="dns-prefetch" href="//codepirat.es">
-<link rel="dns-prefetch" href="//edanhewitt.com">
-<link rel="dns-prefetch" href="//r3versin.com">
-
 <meta name="description" content="The Handpicked jQuery Plugins Repository. :: File Browser :: Downloads">
 <meta name="author" content="David Higgins">
 <meta name="keywords" content="jquery,plugins,handpicked,jquery-plugins,plugins-jquery,plugin-collection,collection,best,best-plugins,good-jquery-plugins,jQuery,jquery-handpicked,david-higgins,higgins" />
@@ -59,6 +53,8 @@
 
 ?>
 </div>
+
 <script src="http://iwantaneff.in/mint/?js"></script>
+
 </body>
 </html>
