@@ -1,1 +1,0 @@
-jQuery.extend(jQuery.fn.socialSharePrivacy.settings.services.tumblr,{txt_info:"Отправить контент на Tumblr.",txt_button:"Tumblr"});

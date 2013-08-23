@@ -1,1 +1,0 @@
-(function($,undefined){$.extend($.fn.socialSharePrivacy.settings.services.stumbleupon,{txt_info:"Ter verduidelijking: De StumbleUpon knop wordt hiermee geactiveerd. Hiermee wordt data naar StumbleUpon verzonden – Klik voor meer informatie op <em>i</em>.",txt_off:"niet verbonden met StumbleUpon",txt_on:"verbonden met StumbleUpon"});})(jQuery);

@@ -1,1 +1,0 @@
-jQuery.extend(jQuery.fn.socialSharePrivacy.settings.services.tumblr,{txt_info:"Partager ce contenu sur Tumblr.",txt_button:"Partager sur Tumblr"});

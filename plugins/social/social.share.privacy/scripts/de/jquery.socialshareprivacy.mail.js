@@ -1,1 +1,0 @@
-jQuery.extend(jQuery.fn.socialSharePrivacy.settings.services.mail,{txt_info:"Per E-Mail an einen Freund senden.",txt_button:"Sende E-Mail"});
